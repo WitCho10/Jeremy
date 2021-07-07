@@ -21,4 +21,6 @@ planes que puede adquirir y que conozca más . Finalmente, la tipografía es cla
 
 
 En mi caso, los call to action se encuentran bien definidos en sección de landing page.
+Además, He adecuado las secciones con distintos tamaños, con fin de que el usuario tenga mejor comprensión y pueda mantener una mejor interacción con la 
+página de Virtual Agronomist.
 
