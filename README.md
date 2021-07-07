@@ -24,3 +24,10 @@ En mi caso, los call to action se encuentran bien definidos en sección de landi
 Además, He adecuado las secciones con distintos tamaños, con fin de que el usuario tenga mejor comprensión y pueda mantener una mejor interacción con la 
 página de Virtual Agronomist.
 
+
+En mi caso, sobre las heucaristicas de usabilidad. Se puede observar que cumplo con la visibilidad del estatus del sistema, ya que mantengo al usuario informado
+sobre lo que está sucediendo. Además, cumplo la heucaristica de control y libertad para el usuario, ya que permito al usuario sentirse muy agusto con la página.
+Finalmente, cuanto con la heuristica de usabilidad de consistencia y estándares, ya que el usuario no tiene que preguntar nada sobre funcionamiento, situación, etc,
+porque todo está claro.
+
+
